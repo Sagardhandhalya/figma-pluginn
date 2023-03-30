@@ -1,0 +1,11 @@
+{
+  "name": "testwithravish",
+  "id": "1186964462672807646",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "ui": "ui.html"
+}
